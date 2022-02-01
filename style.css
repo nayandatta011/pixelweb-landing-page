@@ -86,7 +86,7 @@ img{
 /* Hero Section  */
 .hero-section{
     height: 100vh;
-    background-image: linear-gradient(rgba(228, 228, 228, 0.795), rgba(235, 235, 235, 0.795)) ,url(/assets/img/banner-bg.jpg);
+    background-image: linear-gradient(rgba(228, 228, 228, 0.795), rgba(235, 235, 235, 0.795)) ,url(./assets/img/banner-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
